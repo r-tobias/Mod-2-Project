@@ -14,10 +14,10 @@ npm start
 
 
 ## Endpoints
-/drink
-/cafe
-/location
-/employee
+/drinks
+/cafes
+/locations
+/employees
 
 To get, put, or delete data, use the id number ex: /endpoint:id 
 
