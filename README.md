@@ -7,17 +7,17 @@ Bubble Tea Cafe Database consists information about the cafes, drinks, locations
 Express, MongoDB, Node.JS and Mongoose
 
 ## Local Installation 
-clone the repository using git
-navigate to the file
-run the seed files to populate the database using node
-npm start
+1. clone the repository using git
+2. navigate to the file
+3. run the seed files to populate the database using node
+4. npm start
 
 
 ## Endpoints
-/drinks
-/cafes
-/locations
-/employees
+* /drinks 
+* /cafes
+* /locations
+* /employees
 
 To get, put, or delete data, use the id number ex: /endpoint:id 
 
