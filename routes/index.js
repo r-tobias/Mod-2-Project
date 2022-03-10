@@ -2,6 +2,7 @@ const  { Router } = require('express');
 const controllers = require('../controllers')
 const router = Router();
 
+router.get('/', (req, res) => res.send('This is the Coco api'))
 //drinks
 router.post('/drinks', controllers.createDrink)
 router.get('/drinks', controllers.getAllDrinks)
